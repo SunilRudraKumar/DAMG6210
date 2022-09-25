@@ -2,7 +2,8 @@
 
 
 
-DMDD Project Title: Discriminating the areas based on safety and affordability
+DMDD Project Title: Red Eye
+Discriminating the areas based on safety and affordability
 
 Team Member: Sunil Rudrakumar
 
